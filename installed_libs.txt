@@ -1,0 +1,11 @@
+Package   Version
+--------- -------
+appdirs   1.4.4
+cffi      1.17.1
+lxml      5.3.0
+packaging 24.1
+pip       24.0
+pycparser 2.22
+pyshark   0.6
+scapy     2.5.0
+termcolor 2.4.0
